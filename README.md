@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-Hello, I am a student and programmer who wants to find experience. I can write python and javascript. I have a project to create a bot discord with javascript for one Vtuber.
+Hello, I am a student and programmer who wants to find experience. I can write a python and JavaScript. I don't have a JavaScript portfolio at the moment, but I expect that in the future I will definitely have a portfolio.
 
 * 🌍  I'm based in Bangkok, Thailand
 
