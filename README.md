@@ -12,6 +12,8 @@ My name is Narngisa. I am a student and programmer from Wat Nuannoradit School.
 * **Python**
 * **Javascript**
 
+
+
 ### Socials 💻
 - Discord: **[Narngisa](https://discord.com/users/Narngisa)**
 ---
