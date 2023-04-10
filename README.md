@@ -1,6 +1,6 @@
 Hey there 👋
 ============
-My name is Narngisa, I am a student and programmer from Wat Nuannoradit School.
+My name is Narngisa. I am a student and programmer from Wat Nuannoradit School.
 
 
 ### What languages do I code?
