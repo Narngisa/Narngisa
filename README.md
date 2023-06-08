@@ -4,7 +4,15 @@ Hi 👋 My name is Narngisa
 Student
 -------
 
-Hello, I am a student and programmer who wants to find experience. I can write a python and JavaScript. I don't have a JavaScript portfolio at the moment, but I expect that in the future I will definitely have a portfolio.
+This portfolio was created to showcase my portfolio and
+I want to gain work experience in web development
+to earn money to buy a new computer.
+
+Hello, My name is Natthanan Jirunthaninthatchakun or Narngisa.
+I am a student and programmer from Wat Nuannoradit School.
+
+I have a strong background in discord developer application and web development.
+I am currently working on my portfolio and looking for new opportunities.
 
 * 🌍  I'm based in Bangkok, Thailand
 
@@ -23,5 +31,3 @@ Hello, I am a student and programmer who wants to find experience. I can write a
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Narngisa"><img src="https://github-readme-stats.vercel.app/api?username=Narngisa&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Narngisa's GitHub stats" /></a>
-
-<a href="https://github.com/Narngisa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narngisa&langs_count=10&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
