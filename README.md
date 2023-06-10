@@ -4,10 +4,6 @@ Hi 👋 My name is Narngisa
 Student
 -------
 
-This portfolio was created to showcase my portfolio and
-I want to gain work experience in web development
-to earn money to buy a new computer.
-
 Hello, My name is Natthanan Jirunthaninthatchakun or Narngisa.
 I am a student and programmer from Wat Nuannoradit School.
 
