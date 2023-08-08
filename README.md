@@ -4,7 +4,7 @@ Hi 👋 My name is Narngisa
 Student
 -------
 
-Hello, My name is Natthanan Jirunthaninthatchakun or Narngisa.
+Hello, My name is Narngisa.
 I am a student and programmer from Wat Nuannoradit School.
 
 I have a strong background in discord developer application and web development.
