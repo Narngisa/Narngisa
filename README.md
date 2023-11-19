@@ -4,7 +4,7 @@ Hi! My name is Narngisa
 Student and Web Developer
 -------------------------
 
-I learned code more than 2 years after I made the project website, making me passionate about coding.
+I began learning to code over two years ago, and creating the project website fueled my passion for coding.
 
 * 🌍  I'm based in Thailand
 * 🧠  I'm learning ReactJS and NextJS
