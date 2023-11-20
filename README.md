@@ -22,8 +22,6 @@ src="https://img.shields.io/github/followers/Narngisa?logo=github&style=for-the-
 
 <p align="left"> <a href="https://www.github.com/Narngisa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Narngisa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<a href="https://github.com/Narngisa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narngisa&langs_count=10&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Top Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narngisa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
