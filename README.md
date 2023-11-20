@@ -26,4 +26,4 @@ src="https://img.shields.io/github/followers/Narngisa?logo=github&style=for-the-
 
 <a href="https://github.com/Narngisa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narngisa&langs_count=10&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strixziv&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narngisa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
