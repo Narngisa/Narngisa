@@ -1,7 +1,7 @@
 Hi! My name is Narngisa
 ================================================================================================================================
 
-Student and Web Developer
+Student and Front-End Developer
 -------------------------
 
 I began learning to code over two years ago, and creating the project website fueled my passion for coding.
