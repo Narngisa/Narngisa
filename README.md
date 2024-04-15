@@ -1,11 +1,9 @@
-Hi! My name is Narngisa
-================================================================================================================================
+# Hi👋 I'm Narngisa
 
-Student and Front-End Developer
--------------------------
+### Student from Wat Nuannoradit School and Front-End Developer
 
-I began learning to code over three years ago, and creating the project website fueled my passion for coding.
 
+* 💻  3+ years of coding experience
 * 🌍  I'm based in Thailand
 * 🧠  I'm learning ReactJS and NextJS
 
