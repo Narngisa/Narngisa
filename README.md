@@ -5,14 +5,11 @@
 
 * 💻  3+ years of coding experience
 * 🌍  I'm based in Thailand
-* 🧠  I'm learning ReactJS and NextJS
-
-<a href="https://www.github.com/Narngisa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Narngisa?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a>
+* 🧠  I'm learning NodeJS an NextJS
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,tailwind,nodejs)](https://skillicons.dev)
 
 ### Socials
 
