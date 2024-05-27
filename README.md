@@ -15,6 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/Narngisa)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Narngisa)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Narngisa)
 
 ### Top Language
 
