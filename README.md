@@ -5,7 +5,7 @@
 * 🥀   𝒜𝓁𝓂𝑜𝓈𝓉 𝐹𝓊𝓁𝓁 𝒮𝓉𝒶𝒸𝓀
 * 💻   𝟥+ 𝓎𝑒𝒶𝓇𝓈 𝑜𝒻 𝒸𝑜𝒹𝒾𝓃𝑔 𝑒𝓍𝓅𝑒𝓇𝒾𝑒𝓃𝒸𝑒
 * 🌍   𝐼'𝓂 𝒷𝒶𝓈𝑒𝒹 𝒾𝓃 𝒯𝒽𝒶𝒾𝓁𝒶𝓃𝒹
-* 🧠   𝐼 𝓌𝒾𝓁𝓁 𝓁𝑒𝒶𝓇𝓃 𝒫𝓎𝓉𝑜𝓇𝒸𝒽 𝒶𝓃𝒹 𝐿𝓊𝒶
+* 🧠   𝐼 𝓌𝒾𝓁𝓁 𝓁𝑒𝒶𝓇𝒾𝓃𝑔 𝒞++ 𝒶𝓃𝒹 𝐿𝓊𝒶
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,tailwind,nodejs)](https://skillicons.dev)
 
