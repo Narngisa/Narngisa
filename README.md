@@ -1,7 +1,7 @@
 Hi 👋 My name is Narngisa
 =========================
 
-I am a student from Wat Nuannoradit School and my hobby is programming and web development.
+I am a student from Wat Nuannoradit School and my hobby is programming.
 
 * 🌍  I'm based in Thailand
 * 🧠  I'm learning a new language code
