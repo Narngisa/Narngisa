@@ -21,4 +21,4 @@ I am a student from Wat Nuannoradit School and my hobby is programming.
 <a href="https://www.github.com/Narngisalnw"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narngisalnw&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narngisalnw&layout=compact&theme=dark)](https://github.com/narngisalnw/github-readme-stats)
