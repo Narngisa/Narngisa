@@ -9,7 +9,7 @@ I am a student from Wat Nuannoradit School and my hobby is programming.
 ### Skills
 
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts,react,next,tailwindcss,nodejs" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts" /></a>
 </p>
 
 
