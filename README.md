@@ -5,6 +5,8 @@ I am a student from Wat Nuannoradit School and my hobby is programming.
 
 * 🌍  I'm based in Thailand
 * 🧠  I'm learning a new language code
+* 📅  I'm 17 years old.
+* 💻  I'm learning about GDscript.
 
 ### Skills
 
