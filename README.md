@@ -22,7 +22,7 @@ My main interests lie in both front-end and back-end web development, where I’
 
 ### 📖 Framework
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next,expressjs" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next,expressjs,vite" /></a>
 </p>
 
 ### 🗃️ Database
