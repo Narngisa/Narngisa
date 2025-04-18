@@ -14,12 +14,22 @@ My main interests lie in both front-end and back-end web development, where I’
 * 🎨  Love **drawing** and **writing fiction**  
 * 🌱  Always exploring ways to **blend creativity with technology**
 
-### 🔰 Skills
+### 🔰 Coding
 
 <p align="left">
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,html,css,js,ts" /></a>
 </p>
 
+### 📖 Framework
+<p align="left">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next,expressjs" /></a>
+</p>
+
+### 🗃️ Database
+
+<p align="left">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" /></a>
+</p>
 
 ### 🌏 Socials
 
