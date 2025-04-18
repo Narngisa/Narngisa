@@ -17,7 +17,7 @@ My main interests lie in both front-end and back-end web development, where I’
 ### 🔰 Skills
 
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,html,css,js,ts,lua" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,html,css,js,ts" /></a>
 </p>
 
 
