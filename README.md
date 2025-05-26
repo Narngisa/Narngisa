@@ -11,7 +11,7 @@ My main interests lie in both front-end and back-end web development, where I’
 * 🌍  Based in **Bangkok, Thailand**  
 * 🧠  Currently learning **new programming languages**  
 * 💻  Focused on **Python development**  
-* 🎨  Love **drawing** and **writing fiction**  
+* 🎨  Love **drawing**, **writing fiction** and **playing chess**  
 * 🌱  Always exploring ways to **blend creativity with technology**
 
 ### 🔰 Coding
