@@ -1,9 +1,9 @@
 Hi there!👋 I'm Natthanan — or you can call me Narngisa.
 =========================
 
-I'm a high school student and aspiring programmer from Wat Nuannoradit School. I have a strong passion for problem-solving, especially through programming and storytelling. In my free time, I enjoy drawing and writing fiction, which often inspires and shapes my software projects.
+I'm a high school student and aspiring programmer from Wat Nuannoradit School. I have a strong passion for problem-solving, especially through programming in my free time, I enjoy drawing and writing fiction and playing chess, which often inspires and shapes my software projects.
 
-My main interests lie in both front-end and back-end web development, where I’ve built a solid foundation through personal projects and continuous learning. I'm currently expanding my skill set by exploring new programming languages, enhancing my GitHub portfolio, and seeking new opportunities to grow as a developer. I’m always eager to combine creativity with technology to build meaningful and engaging digital experiences.
+My main interests lie in both front-end and back-end web development, where I’ve built a solid foundation through personal projects and continuous learning. I'm currently expanding my skill set by exploring new programming languages, enhancing my GitHub and portfolio, and seeking new opportunities to grow as a developer. I’m always eager to combine creativity with technology to build meaningful and engaging digital experiences. 
 
 ### 📌 About Me
 
