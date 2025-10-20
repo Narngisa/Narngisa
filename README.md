@@ -28,7 +28,7 @@ My main interests lie in both front-end and back-end web development, where I’
 ### 🗃️ Database
 
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase" /></a>
 </p>
 
 ### 🌏 Socials
