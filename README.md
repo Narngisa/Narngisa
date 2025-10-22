@@ -7,7 +7,7 @@ My main interests lie in both front-end and back-end web development, where I’
 
 ### 📌 About Me
 
-* 📅  I'm 17 years old  
+* 📅  I'm 18 years old  
 * 🌍  Based in **Bangkok, Thailand**  
 * 🧠  Currently learning **new programming languages**  
 * 💻  Focused on **Python development**  
