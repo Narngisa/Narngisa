@@ -20,7 +20,7 @@ I'm a high school student and aspiring programmer from Wat Nuannoradit School. I
 
 ### 📖 Framework
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next,expressjs,vite" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next,expressjs,bun,vite" /></a>
 </p>
 
 ### 🗃️ Database
