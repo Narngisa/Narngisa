@@ -1,5 +1,5 @@
 ## Hello there 👋 
-I'm Natthanan form Thailand, and I do Design/Server API website and programing. I really love to learning language code like python and typescript. It's the best for beginner. I focus learning DL/ML for AI.
+I'm Natthanan from Thailand, and I design websites and server-side APIs. I also do programming. I really love learning programming languages like Python and TypeScript because they are great for beginners. Currently, I’m focusing on learning deep learning and machine learning for AI.
 
 ### Skills
 <p align="left">
