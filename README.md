@@ -1,45 +1,11 @@
-Hi there!👋 I'm Natthanan — or you can call me Narngisa.
-=========================
+## Hello there 👋 
+I'm Natthanan form Thailand, and I do Design/Server API website and programing. I really love to learning language code like python and typescript. It's the best for beginner. I focus learning DL/ML for AI.
 
-I'm a high school student and aspiring programmer from Wat Nuannoradit School. I have a strong passion for problem-solving, especially through programming in my free time, I enjoy drawing and writing fiction and playing chess, which often inspires and shapes my software projects.
-
-### 📌 About Me
-
-* 📅  I'm 18 years old  
-* 🌍  Based in **Bangkok, Thailand**  
-* 🧠  Currently learning **new programming languages**  
-* 💻  Focused on **Python development**  
-* 🎨  Love **drawing**, **writing fiction** and **playing chess**  
-* 🌱  Always exploring ways to **blend creativity with technology**
-
-### 🔰 Coding
-
+### Skills
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,html,css,js,ts,c,cpp" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,html,css,js,ts,c,cpp,react,next,tailwind,nodejs,expressjs,bun,vite,mysql,mongodb,postgresql,supabase" /></a>
 </p>
 
-### 📖 Framework
-<p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,expressjs,bun,vite" /></a>
-</p>
-
-### 🗃️ Database
-
-<p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase" /></a>
-</p>
-
-### 🧲 ORM
-<p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=prisma" /></a>
-</p>
-
-### 🌏 Socials
-
-<p align="left">
-<a href="https://discord.com/users/Narngisa"><img src="https://skillicons.dev/icons?i=discord" /></a>
-<a href="https://www.x.com/Narngisa"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://www.github.com/Narngisalnw"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narngisa&layout=compact&theme=dark)](https://github.com/Narngisalnw/github-readme-stats)
+### My Contacts
+- 📝 Email: nattanan43658@gmail.com
+- 🌐 Twitter: [Narngisa](https://x.com/Narngisa)
