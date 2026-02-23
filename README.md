@@ -9,4 +9,5 @@ I'm Natthanan from Thailand, and I design websites and server-side APIs. I also 
 ### My Contacts
 - 📝 Email: nattanan43658@gmail.com
 - 🌐 Twitter: [Narngisa](https://x.com/Narngisa)
-- ☕ Kofi: [Narngisa](https://ko-fi.com/narngisa)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U2KQYM9)
