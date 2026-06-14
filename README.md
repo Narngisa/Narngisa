@@ -13,7 +13,7 @@ I am currently a first-year student in Computer Engineering and Artificial Intel
 
 #### Languages & Frameworks 🚩
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwindcss,nodejs,bun,mysql,postgres,mongodb,supabase" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwindcss,nodejs,bun" />
 </a>
 <br />
 
@@ -23,9 +23,14 @@ I am currently a first-year student in Computer Engineering and Artificial Intel
 </a>
 <br />
 
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narngisa&layout=donut&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Narngisa&show_icons=true&theme=onedark)
+
 ## Contact me 🔎
 - Email: **[nattanan43658@gmail.com](mailto:nattanan43658@gmail.com)**
 - Socials: **[Narngisa](https://linktr.ee/Narngisa)**
 - Ko-fi: **[Narngisa](https://ko-fi.com/narngisa)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narngisa&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
