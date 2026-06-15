@@ -31,6 +31,5 @@ I am currently a first-year student in Computer Engineering and Artificial Intel
 
 ## Contact me 🔎
 - Email: **[natthanan.jiranthaninthatchakun@gmail.com](mailto:natthanan.jiranthaninthatchakun@gmail.com)**
-- Socials: **[linktr.ee/Narngisa](https://linktr.ee/Narngisa)**
 - Ko-fi: **[ko-fi.com/narngisaNarngisa](https://ko-fi.com/narngisa)**
 
