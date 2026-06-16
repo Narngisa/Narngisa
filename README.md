@@ -9,7 +9,7 @@ I am currently a first-year student in Computer Engineering and Artificial Intel
     <img src="https://skillicons.dev/icons?i=py,rust,java,arch" />
 </a>
 
-## Experiense ☕
+## Experience ☕
 
 #### Languages & Frameworks 🚩
 <a href="https://skillicons.dev">
