@@ -23,12 +23,6 @@ I am currently a first-year student in Computer Engineering and Artificial Intel
 </a>
 <br />
 
-#
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narngisa&layout=donut&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Narngisa&show_icons=true&theme=onedark)
-
 ## Contact me 🔎
 - Email: **[natthanan.jiranthaninthatchakun@gmail.com](mailto:natthanan.jiranthaninthatchakun@gmail.com)**
 - Ko-fi: **[ko-fi.com/narngisaNarngisa](https://ko-fi.com/narngisa)**
