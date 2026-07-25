@@ -25,5 +25,4 @@ I am currently a first-year student in Computer Engineering and Artificial Intel
 
 ## Contact me 🔎
 - Email: **[nattanan43658@gmail.com](mailto:nattanan43658@gmail.com)**
-- Ko-fi: **[ko-fi.com/narngisaNarngisa](https://ko-fi.com/narngisa)**
 
