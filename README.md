@@ -4,7 +4,7 @@
 ## About me 📃
 I am currently a first-year student in Computer Engineering and Artificial Intelligence at PIM. With three years of experience as a Full-Stack Developer, I am now deepening my expertise by learning ArchLinux, Rust, and Java to advance my engineering capabilities.
 
-## Focusing Skills 💻
+## Tech Stack 💻
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,rust,java,arch" />
 </a>
