@@ -6,7 +6,7 @@ I am currently a first-year student in Computer Engineering and Artificial Intel
 
 ## Tech Stack 💻
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,java,arch" />
+    <img src="https://skillicons.dev/icons?i=py,rust,java,arch,docker" />
 </a>
 
 ## Experience ☕
