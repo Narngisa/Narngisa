@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Natthanan 👋</h1>
-<h3 align="center">🥀 Student | Indie Developer 🥀</h3>
+<h3 align="center">🥀 Student | Computer Engineering and AI | Cyber Security Learner 🥀</h3>
 
 ## About me 📃
-I am currently a first-year student in Computer Engineering and Artificial Intelligence at PIM. With three years of experience as a Full-Stack Developer, I am now deepening my expertise by learning ArchLinux, Rust, and Java to advance my engineering capabilities.
+I am currently a first year student majoring in Computer Engineering and Artificial Intelligence at Panyapiwat Institute of Management. With three years of experience in high school as a Full-Stack developer, I am now studying Archlinux, Rust Java, Networking and Cyber ​​Security. To develop my abilities
 
 ## Tech Stack 💻
 <a href="https://skillicons.dev">
